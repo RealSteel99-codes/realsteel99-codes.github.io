@@ -1,0 +1,6 @@
+title: "RealSteel Codes"
+description: "Cybersecurity & coding explained simply."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
